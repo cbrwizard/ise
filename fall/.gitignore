@@ -1,0 +1,13 @@
+/log/
+*.log
+/tmp
+
+# Editors
+## Jetbrains
+
+.idea/
+
+# JS
+## npm
+
+node_modules

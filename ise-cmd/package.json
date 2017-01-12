@@ -1,0 +1,25 @@
+{
+  "name": "ise-cmd",
+  "version": "0.0.2",
+  "description": "ise cmd tool",
+  "scripts": {},
+  "preferGlobal": true,
+  "bin": {
+    "ise-cmd": "index.js"
+  },
+  "keywords": [
+    "ise"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbrwizard/ise-cmd.git"
+  },
+  "author": "Fyodor Ivanishchev <cbrwizard@gmail.com> (http://cbrwizard.com)",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "fs-extra-promise": "^0.3.0",
+    "ise-core": "^0.0.1",
+    "nconf": "^0.8.0"
+  }
+}

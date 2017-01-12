@@ -1,0 +1,14 @@
+{
+  "contents": [
+    {
+      "kind": "chapter",
+      "content": {
+        "name": "Глава 2",
+
+        "text": {
+          "path": "texts/2.md"
+        }
+      }
+    }
+  ]
+}

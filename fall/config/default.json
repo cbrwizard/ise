@@ -1,0 +1,10 @@
+{
+  "name": "fall",
+  "story": {
+    "path": "./story.json"
+  },
+  "compilation": {
+    "target": "ios",
+    "output": "./output"
+  }
+}

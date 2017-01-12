@@ -1,0 +1,23 @@
+{
+  "name": "ise-core",
+  "version": "0.0.1",
+  "description": "ise core",
+  "scripts": {},
+  "keywords": [
+    "ise"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbrwizard/ise-core.git"
+  },
+  "author": "Fyodor Ivanishchev <cbrwizard@gmail.com> (http://cbrwizard.com)",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra-promise": "^0.3.0",
+    "handlebars": "^4.0.3",
+    "react-native": "^0.18.0-rc"
+  },
+  "devDependencies": {
+    "babel-register": "^6.3.13"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "my_ise_project",
+  "story": {
+    "path": "./story/file.json"
+  },
+  "compilation": {
+    "target": "ios",
+    "output": "./dist"
+  }
+}

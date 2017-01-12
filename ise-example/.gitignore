@@ -1,0 +1,9 @@
+# Editors
+## Jetbrains
+
+.idea/
+
+# JS
+## npm
+
+node_modules
